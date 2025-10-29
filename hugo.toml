@@ -28,3 +28,7 @@ disableKinds = ["taxonomy", "term"]
   [languages.ru]
     languageName = "Russian"
     weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
