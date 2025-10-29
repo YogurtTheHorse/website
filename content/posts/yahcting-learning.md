@@ -3,6 +3,7 @@ date = '2025-10-29T17:21:30+01:00'
 title = 'Как я учился яхтингу'
 [params]
   logo = "yachts.jpeg"
+  images = ["yachts.jpeg"]
 +++
 
 ## Зачем все это
