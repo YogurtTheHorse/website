@@ -1,0 +1,30 @@
+baseURL = 'https://yogurtthehor.se/'
+title = 'Yogurt The Horse'
+theme = "shibui-ygrt"
+defaultContentLanguage = 'en'
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
+[params]
+  author = "Yogurt"
+  email = "yegor@yogurtthehor.se"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    disableKinds = ["taxonomy"]
+  [languages.ru]
+    languageName = "Russian"
+    weight = 2
