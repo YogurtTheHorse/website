@@ -69,4 +69,4 @@ title = 'Как я учился яхтингу'
 Как-то так
 
 ![](lighthouse.jpeg)
-{.width-50 }
+{.inner-width-50 }
