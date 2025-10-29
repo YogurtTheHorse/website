@@ -1,9 +1,35 @@
 /* You can add custom style here */
-img.intro-image {
+figure.intro-image {
     max-width: 33%;
     margin-top: -10px;
     margin-bottom: 0px;
 }
+
+.half-width {
+    margin-top: 0;
+    width: 50%;
+}
+
+.width-60 {
+    width: 60%;
+}
+
+.width-40 {
+    width: 40%;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.inner-width-50 > * {
+    width: 50%;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
 .float-right {
     float: right;
 }

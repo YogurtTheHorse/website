@@ -40,7 +40,7 @@
     );
 
     /* Layout */
-    --container-width: 64ch;
+    --container-width: 80ch;
     --pre-border-radius: 0.75rem;
     --inline-border-radius: 0.375rem;
     --gap-base: 1em;
@@ -456,10 +456,6 @@ blockquote > :last-child {
 .toc {
     margin: var(--spacing-base) 0;
     padding: var(--spacing-sm);
-    border: 1px solid var(--color-border);
-    background: var(--color-bg-secondary);
-    border-radius: var(--pre-border-radius);
-    box-shadow: 0 1px 2px 0 var(--color-border);
 }
 
 .toc .toc-content a {
