@@ -3,6 +3,10 @@
     --font-size-base: 13px;
 }
 
+div.youtube {
+    margin: var(--spacing-base) 0;
+}
+
 figure.intro-image {
     max-width: 33%;
     margin-top: -10px;
