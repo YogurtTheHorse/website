@@ -22,7 +22,6 @@ defaultContentLanguage = 'en'
   [languages.en]
     languageName = "English"
     weight = 1
-    disableKinds = ["taxonomy"]
   [languages.ru]
     languageName = "Russian"
     weight = 2

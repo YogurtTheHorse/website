@@ -35,6 +35,7 @@
   {{ .Content }}
 
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }}
 
   {{ if not .IsHome }}
     <div class="terminal-nav">
