@@ -19,7 +19,6 @@
   <img src="{{ $src }}" class="float-right width-60" />
   {{ end }}
 
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
   {{ partial "date.html" .Date}}
 
   {{/* Table of Contents */}}
@@ -34,6 +33,8 @@
   {{ end }}
 
   {{ .Content }}
+
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
   {{ if not .IsHome }}
     <div class="terminal-nav">
