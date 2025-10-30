@@ -3,6 +3,12 @@ title = 'Yogurt The Horse'
 theme = "shibui-ygrt"
 defaultContentLanguage = 'en'
 
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
