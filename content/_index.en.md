@@ -9,11 +9,11 @@ Love to take photos. I am happy owner of Olympus OM-2 for film photography, and 
 
 Love to walk, and have a skipper license. May be someday a pilot license would join this list and I would be a proud all-terrain traveler
 
+- [instagram](https://instagram.com/yogurtthehorse)
 - [github](https://github.com/yogurtthehorse)
 - [itch](https://yogurtthehorse.itch.io)
 - [telegram](https://t.me/yogurtthehorse)
 - [bsky](https://bsky.app/profile/yogurtthehor.se)
 - [linkedin](https://linkedin.com/in/yogurt)
-- [instagram](https://instagram.com/yogurtthehorse)
 
 [по-русски](/ru)
