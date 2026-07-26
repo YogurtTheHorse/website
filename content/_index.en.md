@@ -15,6 +15,6 @@ Love to walk, and have a skipper license. May be someday a pilot license would j
 - [telegram](https://t.me/yogurtthehorse)
 - [bsky](https://bsky.app/profile/yogurtthehor.se)
 - [linkedin](https://linkedin.com/in/yogurt)
-- [yegor@ogurtthehor.se](mailto:yegor@ogurtthehor.se)
+- [yegor@yogurtthehor.se](mailto:yegor@yogurtthehor.se)
 
 [по-русски](/ru)
