@@ -19,5 +19,6 @@
 - [linkedin](https://linkedin.com/in/yogurt)
 - [instagram](https://instagram.com/yogurtthehorse)
 - [vas3k](https://vas3k.club/user/YogurtTheHorse/)
+- [yegor@ogurtthehor.se](mailto:yegor@ogurtthehor.se)
 
 [in english](/en)
